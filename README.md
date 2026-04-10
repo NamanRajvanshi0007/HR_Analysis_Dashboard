@@ -8,6 +8,17 @@ The dashboard helps identify patterns and key reasons behind employee turnover, 
 
 ---
 
+## 💡 Story Behind the Project
+
+In today’s organizations, employee attrition is a major challenge that directly impacts productivity and cost. I wanted to explore how data can help identify the key factors behind employee turnover.
+
+While working on this project, I analyzed HR data to understand patterns related to attrition. I focused on variables such as age, salary, job roles, education, and years at the company.
+
+The goal was not just to create a dashboard, but to derive meaningful insights that can help HR teams make better decisions. Through this analysis, I discovered that younger employees, lower salary groups, and certain job roles have higher attrition rates.
+
+This project helped me strengthen my skills in data visualization, analytical thinking, and deriving business insights using Power BI.
+
+
 ## 🎯 Objective
 
 * Analyze employee attrition trends
